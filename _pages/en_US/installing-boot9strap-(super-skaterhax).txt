@@ -102,5 +102,8 @@ If you haven't already, make sure you have a working Internet connection set up 
 
 ___
 
+You may now restore your region settings back to normal.
+{: .notice--info}
+
 ### Continue to [Finalizing Setup](finalizing-setup)
 {: .notice--primary}
